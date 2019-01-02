@@ -6,5 +6,5 @@ Adicionalmente se genera un FacadeServices para que sea injectado en tus compone
 
 Saludos Cordiales,
 
-Ronald Saavedra
+Ronald Saavedra <br>
 Developer .NET
